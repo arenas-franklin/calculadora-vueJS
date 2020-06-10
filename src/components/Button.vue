@@ -30,6 +30,7 @@ export default {
         border-bottom: var(--border-button);
         outline: none;
         color:black;
+        font-family: 'Abel', sans-serif;
     }
 
     .button:active{

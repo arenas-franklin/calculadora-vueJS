@@ -13,9 +13,10 @@ export default {
 </script>
 
 <style>
-    @font-face {
-        font-family: "RobotoMono";
-        src: url("./fonts/RobotoMono-Thin.ttf");
+    @import url('https://fonts.googleapis.com/css2?family=Abel&family=Roboto:wght@500&display=swap');
+
+    *{
+         font-family: 'Roboto', sans-serif;
     }
 
     body{
@@ -29,6 +30,7 @@ export default {
         justify-content: center;
         align-items: center;
         text-align: center;
+       
 
         color: #fff;
         background:linear-gradient(to right, rgb(83, 105, 118), rgb(41, 46, 73))
