@@ -1,5 +1,10 @@
-# calculator
+# Projeto calculator VueJS
 
+## Descrição do Projeto:
+
+O projeto Calculator tem com objetivo colocar em pratica os conhecimentos de VueJS adquiridos no curso de Web Moderno Completo da cod3r cursos   
+
+---
 ## Project setup
 ```
 yarn install
@@ -14,11 +19,4 @@ yarn serve
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+---
